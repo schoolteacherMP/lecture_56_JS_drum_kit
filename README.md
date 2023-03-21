@@ -7,7 +7,6 @@
 
 #  [Демо](https://irinainina.github.io/JavaScript30-1/01%20-%20JavaScript%20Drum%20Kit/index-FINISHED.html)    
 #  [Video (19:38)](https://www.youtube.com/watch?v=VuN8qwZoego&ab_channel=WesBos)  
-#  [ ]()  
 
 #  Обязательный дополнительный фукционал  
 Дополните приложение возможностью проигрывать звуки не только при нажатии клавиш на клавиатуре, но и при кликах мышкой.    
